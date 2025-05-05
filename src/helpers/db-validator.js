@@ -70,4 +70,3 @@ export const serviceExists = async (sid = " ") => {
         throw new Error("The service does not exist")
     }
 }*/
-}
