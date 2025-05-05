@@ -25,6 +25,7 @@ export const userExists = async (uid = " ") => {
     if(!existe){
         throw new Error("The user does not exist")
     }
+
 }
 
 export const hotelExists = async (hid = " ") => {
@@ -69,3 +70,4 @@ export const serviceExists = async (sid = " ") => {
         throw new Error("The service does not exist")
     }
 }*/
+}
