@@ -26,3 +26,5 @@ Usuarios generales que desean hacer reservas
 ```
 ## 📇 URL Vite/React (Frontend):
 📍 http://localhost:5173/
+### Nota
+Los informes (reporte y planificación) se encuentran en la carpeta de public
