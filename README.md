@@ -17,10 +17,12 @@ Usuarios generales que desean hacer reservas
 ### Usuario: Puede buscar hoteles, ver disponibilidad y realizar reservas.
 
 ### 💻🔒 Credenciales de prueba (Admin Plataforma):
+```json
 {
   "email": "becheverria@gmail.com",
   "username": "becheverria",
   "password": "AdminPass@123"
 }
+```
 ## 📇 URL Vite/React (Frontend):
 📍 http://localhost:5173/
